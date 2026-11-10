@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.kalkulator {
+    background-color: white;
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+    width: 80%;
+}
+
+.gumbi {
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#rezultat {
+    font-size: 20px;
+    font-weight: bold;
+}
